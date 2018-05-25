@@ -1,0 +1,15 @@
+1|I1|U-Quantity Zwiebel|I2|U-Name
+60|I1|U-Quantity g|I2|U-Unit Butter|I3|U-Name
+250|I1|U-Quantity g|I2|U-Unit Risottoreis|I3|U-Name
+150|I1|U-Quantity ml|I2|U-Unit trockener|I3|U-Comment Weißwein|I4|U-Name
+750|I1|U-Quantity ml|I2|U-Unit Gemüsebrühe|I3|U-Name
+1|I1|U-Quantity Lorbeerblatt|I2|U-Name
+1|I1|U-Quantity Bund|I2|U-Unit grüner|I3|B-Name Spargel|I4|L-Name
+200|I1|U-Quantity g|I2|U-Unit Erbsen|I3|U-Name TK|I4|U-Comment
+Pfeffer|I1|U-Name aus|I2|B-Comment der|I3|I-Comment Mühle|I4|L-Comment
+4|I1|QtyMult dünne|I2|B-Comment Scheiben|I3|L-Comment Lachsfilet|I4|U-Name à|I5|MQTY 80|I6|U-Quantity g|I7|U-Unit
+50|I1|U-Quantity ml|I2|U-Unit Sahne|I3|U-Name
+20|I1|U-Quantity kleine|I2|U-Unit Jakobsmuscheln|I3|U-Name küchenfertig|I4|B-Comment ausgelöst|I5|L-Comment
+50|I1|U-Quantity g|I2|U-Unit geriebener|I3|U-Comment Parmesan|I4|U-Name
+250|I1|U-Quantity g|I2|U-Unit grüner|I3|B-Name Spargel|I4|L-Name
+4|I1|U-Quantity Jakobsmuscheln|I2|U-Name küchenfertig,|I3|B-Comment ohne|I4|I-Comment Corail|I5|L-Comment
